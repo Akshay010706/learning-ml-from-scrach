@@ -1,6 +1,6 @@
 # make a python virtual environment 
 #python -m venv .venv     --- this create virtual environment
-#.venv\Scripts\activate.bat    --- this activate python environment
+#.venv\Scripts\activate    --- this activate python environment
 #deactivate -------- this deacivate python environment
 #install numpy -- pip install numpy 
 
